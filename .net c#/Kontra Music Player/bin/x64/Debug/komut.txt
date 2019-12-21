@@ -1,0 +1,12 @@
+play
+stop
+pause
+resume
+next
+back
+open
+up
+down
+max
+half
+mute

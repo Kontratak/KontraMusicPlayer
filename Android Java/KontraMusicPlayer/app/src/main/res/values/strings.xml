@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kontra Music Player</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="title_activity_playlist" />
+</resources>

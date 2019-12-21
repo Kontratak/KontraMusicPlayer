@@ -1,0 +1,30 @@
+C:\Users\turk_\Desktop\music player\Kontra Music Player.exe.config
+C:\Users\turk_\Desktop\music player\Kontra Music Player.exe
+C:\Users\turk_\Desktop\music player\Kontra Music Player.pdb
+C:\Users\turk_\source\repos\Kontra Music Player\bin\Debug\Kontra Music Player.exe.config
+C:\Users\turk_\source\repos\Kontra Music Player\bin\Debug\Kontra Music Player.exe
+C:\Users\turk_\source\repos\Kontra Music Player\bin\Debug\Kontra Music Player.pdb
+C:\Users\turk_\source\repos\Kontra Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\turk_\Desktop\Kontra Music Player\Kontra Music Player.exe.config
+C:\Users\turk_\Desktop\Kontra Music Player\Kontra Music Player.exe.manifest
+C:\Users\turk_\Desktop\Kontra Music Player\Kontra Music Player.application
+C:\Users\turk_\Desktop\Kontra Music Player\Kontra Music Player.exe
+C:\Users\turk_\Desktop\Kontra Music Player\Kontra Music Player.pdb
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.csproj.ResolveComReference.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra_Music_Player.Form1.resources
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra_Music_Player.Form2.resources
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra_Music_Player.Properties.Resources.resources
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.csproj.GenerateResource.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.csproj.CoreCompileInputs.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.exe.manifest
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.application
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.exe
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.pdb
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Kontra Music Player.csprojAssemblyReference.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\Debug\Interop.SpeechLib.dll

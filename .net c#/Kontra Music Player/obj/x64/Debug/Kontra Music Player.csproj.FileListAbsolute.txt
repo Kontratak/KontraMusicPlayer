@@ -1,0 +1,87 @@
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe.config
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe.manifest
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.application
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.pdb
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Interop.SpeechLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.ResolveComReference.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Form1.resources
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Properties.Resources.resources
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.GenerateResource.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.CoreCompileInputs.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.exe.manifest
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.application
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.CopyComplete
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.exe
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.pdb
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csprojAssemblyReference.cache
+C:\Users\turk_\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Form2.resources
+C:\Users\turk_\source\repos\Kontra Music Player\bin\x64\Debug\Eneter.Messaging.Framework.dll
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe.config
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe.manifest
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.application
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.pdb
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Eneter.Messaging.Framework.dll
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.Speech.dll
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\Interop.WMPLib.dll
+E:\projects\source\repos\Kontra Music Player\bin\x64\Debug\AxInterop.WMPLib.dll
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csprojAssemblyReference.cache
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Interop.WMPLib.dll
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\AxInterop.WMPLib.dll
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.ResolveComReference.cache
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Form1.resources
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Form2.resources
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Properties.Resources.resources
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.GenerateResource.cache
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.exe.manifest
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.application
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.CopyComplete
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.exe
+E:\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.pdb
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe.config
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe.manifest
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.application
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.exe
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Kontra Music Player.pdb
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Eneter.Messaging.Framework.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.Speech.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Interop.WMPLib.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\AxInterop.WMPLib.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csprojAssemblyReference.cache
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Interop.WMPLib.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\AxInterop.WMPLib.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.ResolveComReference.cache
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Form1.resources
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Form2.resources
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.Properties.Resources.resources
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.GenerateResource.cache
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.exe.manifest
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.application
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.csproj.CopyComplete
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.exe
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra Music Player.pdb
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Cake.Core.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Cake.Core.xml
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
+G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.PlaylistForm.resources

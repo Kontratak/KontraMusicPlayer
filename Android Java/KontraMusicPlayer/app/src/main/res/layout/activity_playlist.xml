@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+
+    <ImageView
+        android:id="@+id/musicicon"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_x="125dp"
+        android:layout_y="22dp"
+        android:background="@drawable/musicicon"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="61dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="120dp"
+        android:layout_height="20dp"
+        android:layout_x="146dp"
+        android:layout_y="17dp"
+        android:background="@drawable/topbar"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+
+    <Button
+        android:id="@id/button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_x="27dp"
+        android:layout_y="49dp"
+        android:background="@drawable/back2" />
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="167dp"
+        android:layout_y="48dp"
+        android:text="Playlist"
+        android:textSize="25dp"
+        tools:layout_editor_absoluteX="166dp"
+        tools:layout_editor_absoluteY="45dp" />
+
+    <ListView
+        android:id="@id/playlistview"
+        android:layout_width="wrap_content"
+        android:layout_height="594dp"
+        android:layout_x="0dp"
+        android:layout_y="105dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:background="@color/colorPrimary"
+        tools:layout_editor_absoluteY="313dp" />
+
+
+</AbsoluteLayout>
