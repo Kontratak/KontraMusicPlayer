@@ -85,3 +85,4 @@ G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Cake.Core.xm
 G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
 G:\dosyalar\projects\source\repos\Kontra Music Player\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.xml
 G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.PlaylistForm.resources
+G:\dosyalar\projects\source\repos\Kontra Music Player\obj\x64\Debug\Kontra_Music_Player.CopyForm.resources

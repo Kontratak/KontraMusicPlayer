@@ -37,6 +37,7 @@ namespace Kontra_Music_Player
         List<String> list = new List<String>();
         List<String> savepaths = new List<String>();
         List<String> commands = new List<String>();
+        List<int> longlengths = new List<int>();
         bool activated = false;
         Button btnsaveplaylist = new Button();
         Button btnclose = new Button();
@@ -167,6 +168,8 @@ namespace Kontra_Music_Player
                     {
                         IShellProperty prop = shell.Properties.System.Media.Duration;
                         var t = (ulong)prop.ValueAsObject;
+                        int addlong = (int)t;
+                        longlengths.Add(addlong);
                         TimeSpan s = TimeSpan.FromTicks((long)t);
                         if (opfclick == 0)
                         {
@@ -513,16 +516,23 @@ namespace Kontra_Music_Player
                 while (!sr.EndOfStream)
                 {
                     String names = sr.ReadLine();
-                    
-                    paths.Add(names);
-                    String[] name = names.Split('\\');
-                    String name2 = name[name.Length - 1].Substring(0, name[name.Length - 1].Length - 4);
-                    if (!list.Contains(name2))
+                    using (ShellObject shell = ShellObject.FromParsingName(names))
                     {
-                        list.Add(name2);
-                        listView1.Items.Add(name2);
-                        listView1.Items[0].Selected = true;
-                        button1.Enabled = true;
+                        IShellProperty prop = shell.Properties.System.Media.Duration;
+                        var t = (ulong)prop.ValueAsObject;
+                        int longadd = (int)t;
+                        longlengths.Add(longadd);
+                        TimeSpan s = TimeSpan.FromTicks((long)t);
+                        paths.Add(names);
+                        String[] name = names.Split('\\');
+                        String name2 = name[name.Length - 1].Substring(0, name[name.Length - 1].Length - 4);
+                        if (!list.Contains(name2))
+                        {
+                            list.Add(name2);
+                            listView1.Items.Add(name2);
+                            listView1.Items[0].Selected = true;
+                            button1.Enabled = true;
+                        }
                     }
                 }
             }
@@ -1184,7 +1194,7 @@ namespace Kontra_Music_Player
 
         private void addToPlaylistToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            pf.sendItem(list[index], paths[index], times[index]);
+            pf.sendItem(list[index], paths[index], times[index],longlengths[index]);
         }
 
         private void addAllToPlaylistToolStripMenuItem1_Click(object sender, EventArgs e)
@@ -1192,7 +1202,7 @@ namespace Kontra_Music_Player
             int i = 0;
             foreach (String listitem in list)
             {
-                pf.sendItem(listitem, paths[i], times[i]);
+                pf.sendItem(listitem, paths[i], times[i],longlengths[i]);
                 i++;
             }
         }
@@ -1212,13 +1222,6 @@ namespace Kontra_Music_Player
         {
             savePlaylist(paths);
         }
-
-        //private void saveMusicsToAFolderToolStripMenuItem_Click(object sender, EventArgs e)
-        //{
-        //    Thread t = new Thread(SaveMusic);
-        //    t.Start();
-        //    while (t.IsAlive) Application.DoEvents();
-        //}
 
         private void openPlaylistToolStripMenuItem1_Click(object sender, EventArgs e)
         {
@@ -1242,7 +1245,10 @@ namespace Kontra_Music_Player
                         {
                             IShellProperty prop = shell.Properties.System.Media.Duration;
                             var t = (ulong)prop.ValueAsObject;
+                            int addlong = (int)t;
+                            longlengths.Add(addlong);
                             TimeSpan s = TimeSpan.FromTicks((long)t);
+                            
                             paths.Add(names);
                             String[] name = names.Split('\\');
                             String name2 = name[name.Length - 1].Substring(0, name[name.Length - 1].Length - 4);

@@ -37,6 +37,8 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.savemusic = new System.Windows.Forms.Button();
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -67,6 +69,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(78)))), ((int)(((byte)(78)))));
+            this.panel1.Controls.Add(this.savemusic);
             this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button1);
@@ -87,9 +90,9 @@
             this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(78)))), ((int)(((byte)(78)))));
             this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(78)))), ((int)(((byte)(78)))));
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Location = new System.Drawing.Point(307, 10);
+            this.button3.Location = new System.Drawing.Point(314, 5);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(70, 30);
+            this.button3.Size = new System.Drawing.Size(82, 38);
             this.button3.TabIndex = 2;
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -132,6 +135,21 @@
             this.button1.MouseEnter += new System.EventHandler(this.button1_MouseEnter);
             this.button1.MouseLeave += new System.EventHandler(this.button1_MouseLeave);
             // 
+            // savemusic
+            // 
+            this.savemusic.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(78)))), ((int)(((byte)(78)))));
+            this.savemusic.FlatAppearance.BorderSize = 0;
+            this.savemusic.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(78)))), ((int)(((byte)(78)))));
+            this.savemusic.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(78)))), ((int)(((byte)(78)))));
+            this.savemusic.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.savemusic.Image = ((System.Drawing.Image)(resources.GetObject("savemusic.Image")));
+            this.savemusic.Location = new System.Drawing.Point(199, 5);
+            this.savemusic.Name = "savemusic";
+            this.savemusic.Size = new System.Drawing.Size(114, 38);
+            this.savemusic.TabIndex = 3;
+            this.savemusic.UseVisualStyleBackColor = true;
+            this.savemusic.Click += new System.EventHandler(this.savemusic_Click);
+            // 
             // PlaylistForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -159,5 +177,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
+        private System.Windows.Forms.Button savemusic;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
     }
 }
