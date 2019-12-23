@@ -91,14 +91,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kontra Music Player.exe" size="912864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kontra Music Player.exe" size="913888">
       <assemblyIdentity name="Kontra Music Player" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+RB1iIrIYXtOg4xK0yEqcWjkk6DNbNyd7TcmvE6oMso=</dsig:DigestValue>
+        <dsig:DigestValue>j7kZZQ9Y9BN/cvtr9U41oCPidzVkei2lZs8X57btLBw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

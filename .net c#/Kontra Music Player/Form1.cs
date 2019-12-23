@@ -37,7 +37,6 @@ namespace Kontra_Music_Player
         List<String> list = new List<String>();
         List<String> savepaths = new List<String>();
         List<String> commands = new List<String>();
-        List<int> longlengths = new List<int>();
         bool activated = false;
         Button btnsaveplaylist = new Button();
         Button btnclose = new Button();
@@ -61,6 +60,7 @@ namespace Kontra_Music_Player
         int volume = 0;
         Point lastClick;
         PlaylistForm pf;
+        bool playagain = false;
         public void readySpeechEngine()
         {
             //ss.SetOutputToDefaultAudioDevice();
@@ -168,8 +168,6 @@ namespace Kontra_Music_Player
                     {
                         IShellProperty prop = shell.Properties.System.Media.Duration;
                         var t = (ulong)prop.ValueAsObject;
-                        int addlong = (int)t;
-                        longlengths.Add(addlong);
                         TimeSpan s = TimeSpan.FromTicks((long)t);
                         if (opfclick == 0)
                         {
@@ -301,17 +299,28 @@ namespace Kontra_Music_Player
             {
                 if (axWindowsMediaPlayer2.playState == WMPLib.WMPPlayState.wmppsStopped && timeleft == axWindowsMediaPlayer2.currentMedia.duration)
                 {
-                    index = listView1.SelectedIndices[0] + 1;
-                    if (!(index == listView1.Items.Count))
+                    if (playagain == false)
                     {
+                        index = listView1.SelectedIndices[0] + 1;
+                        if (!(index == listView1.Items.Count))
+                        {
+                            axWindowsMediaPlayer2.URL = paths[index];
+                            axWindowsMediaPlayer2.Ctlcontrols.play();
+                            label1.Text = list[index];
+                            listView1.Items[index].Selected = true;
+                        }
+                        else
+                        {
+                            button7.PerformClick();
+                        }
+                    }
+                    else
+                    {
+                        index = listView1.SelectedIndices[0];
                         axWindowsMediaPlayer2.URL = paths[index];
                         axWindowsMediaPlayer2.Ctlcontrols.play();
                         label1.Text = list[index];
                         listView1.Items[index].Selected = true;
-                    }
-                    else
-                    {
-                        listView1.Items[-1].Selected = true;
                     }
                 }
             }
@@ -520,8 +529,6 @@ namespace Kontra_Music_Player
                     {
                         IShellProperty prop = shell.Properties.System.Media.Duration;
                         var t = (ulong)prop.ValueAsObject;
-                        int longadd = (int)t;
-                        longlengths.Add(longadd);
                         TimeSpan s = TimeSpan.FromTicks((long)t);
                         paths.Add(names);
                         String[] name = names.Split('\\');
@@ -749,6 +756,10 @@ namespace Kontra_Music_Player
             {
                 if (axWindowsMediaPlayer2.Ctlcontrols.currentPosition - 10 > 0)
                     axWindowsMediaPlayer2.Ctlcontrols.currentPosition -= 10;
+            }
+            else if (e.RequestMessage.Text == "playagain")
+            {
+                playagain = true;
             }
         }
 
@@ -1194,7 +1205,7 @@ namespace Kontra_Music_Player
 
         private void addToPlaylistToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            pf.sendItem(list[index], paths[index], times[index],longlengths[index]);
+            pf.sendItem(list[index], paths[index], times[index]);
         }
 
         private void addAllToPlaylistToolStripMenuItem1_Click(object sender, EventArgs e)
@@ -1202,7 +1213,7 @@ namespace Kontra_Music_Player
             int i = 0;
             foreach (String listitem in list)
             {
-                pf.sendItem(listitem, paths[i], times[i],longlengths[i]);
+                pf.sendItem(listitem, paths[i], times[i]);
                 i++;
             }
         }
@@ -1241,25 +1252,29 @@ namespace Kontra_Music_Player
                     while (!sr.EndOfStream)
                     {
                         String names = sr.ReadLine();
-                        using (ShellObject shell = ShellObject.FromParsingName(names))
+                        try
                         {
-                            IShellProperty prop = shell.Properties.System.Media.Duration;
-                            var t = (ulong)prop.ValueAsObject;
-                            int addlong = (int)t;
-                            longlengths.Add(addlong);
-                            TimeSpan s = TimeSpan.FromTicks((long)t);
-                            
-                            paths.Add(names);
-                            String[] name = names.Split('\\');
-                            String name2 = name[name.Length - 1].Substring(0, name[name.Length - 1].Length - 4);
-                            list.Add(name2);
-                            String time = s.ToString().Substring(3, 5);
-                            times.Add(time);
-                            String[] values = { name2, time };
-                            ListViewItem add = new ListViewItem(values);
-                            listView1.Items.Add(add);
-                            listView1.Items[0].Selected = true;
-                            button1.Enabled = true;
+                            using (ShellObject shell = ShellObject.FromParsingName(names))
+                            {
+                                IShellProperty prop = shell.Properties.System.Media.Duration;
+                                var t = (ulong)prop.ValueAsObject;
+                                TimeSpan s = TimeSpan.FromTicks((long)t);
+                                paths.Add(names);
+                                String[] name = names.Split('\\');
+                                String name2 = name[name.Length - 1].Substring(0, name[name.Length - 1].Length - 4);
+                                list.Add(name2);
+                                String time = s.ToString().Substring(3, 5);
+                                times.Add(time);
+                                String[] values = { name2, time };
+                                ListViewItem add = new ListViewItem(values);
+                                listView1.Items.Add(add);
+                                listView1.Items[0].Selected = true;
+                                button1.Enabled = true;
+                            }
+                        }catch(Exception xe)
+                        {
+                            MessageBox.Show("Files Has Been Removed, Files Not Found!", "Warning");
+                            break;
                         }
                     }
                     if (receiverid != null)
@@ -1276,6 +1291,21 @@ namespace Kontra_Music_Player
         private void button9_MouseEnter(object sender, EventArgs e)
         {
             button9.Image = Image.FromFile(Application.StartupPath + "\\images\\minhover.png");
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            if(playagain == false)
+            {
+                button10.Image = Image.FromFile(Application.StartupPath + "\\images\\replay.png");
+                playagain = true;
+            }
+            else
+            {
+                button10.Image = Image.FromFile(Application.StartupPath + "\\images\\dontreplay.png");
+                playagain = false;
+            }
+            
         }
     }
     //Request Message Type

@@ -23,7 +23,7 @@ namespace Kontra_Music_Player
             this.length = length;
         }
 
-        public void toProgress(String musicname,int copylength)
+        public void toProgress(String musicname)
         {
             label3.Text = musicname;
             progressBar1.Value += 1;

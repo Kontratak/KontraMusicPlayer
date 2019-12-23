@@ -17,7 +17,6 @@ namespace Kontra_Music_Player
         Point lastClick;
         List<String> listplaylist = new List<String>();
         List<String> savepaths = new List<String>();
-        List<int> listmusiclength = new List<int>();
         Thread t;
         String sourcepath;
         CopyForm cp;
@@ -31,13 +30,12 @@ namespace Kontra_Music_Player
             this.Close();
         }
 
-        public void sendItem(String list, String path, String Length,int length)
+        public void sendItem(String list, String path, String Length)
         {
             if (!listplaylist.Contains(list))
             {
                 listplaylist.Add(list);
                 savepaths.Add(path);
-                listmusiclength.Add(length);
                 string[] values = { list, Length };
                 ListViewItem add = new ListViewItem(values);
                 listView1.Items.Add(add);
@@ -130,11 +128,11 @@ namespace Kontra_Music_Player
             {
                 if(i == 0)
                 {
-                    cp.toProgress(listplaylist[i], 0);
+                    cp.toProgress(listplaylist[i]);
                 }
                 else
                 {
-                    cp.toProgress(listplaylist[i], listmusiclength[i - 1]);
+                    cp.toProgress(listplaylist[i]);
                 }
                 if (sourcepath != "" && filename != "")
                 {

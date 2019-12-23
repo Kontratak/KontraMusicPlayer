@@ -67,6 +67,7 @@ namespace Kontra_Music_Player
             this.addAllToPlaylistToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openConnectionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.button10 = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.trackBar2 = new System.Windows.Forms.TrackBar();
             this.label3 = new System.Windows.Forms.Label();
@@ -384,6 +385,7 @@ namespace Kontra_Music_Player
             // 
             this.panel2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel2.BackgroundImage")));
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.button10);
             this.panel2.Controls.Add(this.pictureBox2);
             this.panel2.Controls.Add(this.trackBar2);
             this.panel2.Controls.Add(this.label3);
@@ -401,6 +403,22 @@ namespace Kontra_Music_Player
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(495, 150);
             this.panel2.TabIndex = 1;
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(4)))), ((int)(((byte)(67)))));
+            this.button10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button10.BackgroundImage")));
+            this.button10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button10.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(4)))), ((int)(((byte)(67)))));
+            this.button10.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(4)))), ((int)(((byte)(67)))));
+            this.button10.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(4)))), ((int)(((byte)(67)))));
+            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button10.Location = new System.Drawing.Point(279, 97);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(39, 40);
+            this.button10.TabIndex = 11;
+            this.button10.UseVisualStyleBackColor = false;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // pictureBox2
             // 
@@ -760,6 +778,7 @@ namespace Kontra_Music_Player
         private ToolStripMenuItem activateToolStripMenuItem;
         private ToolStripMenuItem deactivateToolStripMenuItem1;
         private ToolStripMenuItem openPlaylistToolStripMenuItem1;
+        private Button button10;
     }
 }
 
