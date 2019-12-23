@@ -13227,4 +13227,52 @@ over)
 12:49:51 : 21 Aralık 2019 Cumartesi : Text Received : [ElectronicRock]  Bazookie -  Elysian [Free to use]
 12:49:51 : 21 Aralık 2019 Cumartesi : Text Send : [ElectronicRock]  Bazookie -  Elysian [Free to use]
 12:49:53 : 21 Aralık 2019 Cumartesi : Text Received : [ElectronicRock]  Bazookie -  Elysian [Free to use]
-12:49:53 : 21 Ar
+12:49:53 : 21 Ar11:58:19 : 23 Aralık 2019 Pazartesi : Text Received : 
+11:58:19 : 23 Aralık 2019 Pazartesi : Text Send : paused
+11:58:19 : 23 Aralık 2019 Pazartesi : Text Send : 
+11:58:29 : 23 Aralık 2019 Pazartesi : Text Send : Bad Books Forest Whitaker
+11:58:29 : 23 Aralık 2019 Pazartesi : Text Send : playing
+11:58:30 : 23 Aralık 2019 Pazartesi : Text Send : Bad Books Forest Whitaker
+11:58:33 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:35 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:36 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:37 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:37 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:41 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:41 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:41 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:41 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:41 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:42 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:42 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:42 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:43 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:43 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:43 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:44 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:44 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:44 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:45 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:46 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:46 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:46 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:48 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:49 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:58:57 : 23 Aralık 2019 Pazartesi : Text Send : Bad Books Forest Whitaker
+11:58:59 : 23 Aralık 2019 Pazartesi : Text Received : Bad Books Forest Whitaker
+11:59:11 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:14 : 23 Aralık 2019 Pazartesi : Text Received : Battlefield 3 Soundtrack - Main Theme
+11:59:14 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:16 : 23 Aralık 2019 Pazartesi : Text Received : Battlefield 3 Soundtrack - Main Theme
+11:59:16 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:16 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:17 : 23 Aralık 2019 Pazartesi : Text Received : Battlefield 3 Soundtrack - Main Theme
+11:59:17 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:18 : 23 Aralık 2019 Pazartesi : Text Received : Battlefield 3 Soundtrack - Main Theme
+11:59:18 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:18 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:18 : 23 Aralık 2019 Pazartesi : Text Received : Battlefield 3 Soundtrack - Main Theme
+11:59:18 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:20 : 23 Aralık 2019 Pazartesi : Text Received : Battlefield 3 Soundtrack - Main Theme
+11:59:20 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+11:59:20 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme

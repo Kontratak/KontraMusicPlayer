@@ -760,10 +760,12 @@ namespace Kontra_Music_Player
             else if (e.RequestMessage.Text == "playagain")
             {
                 playagain = true;
+                button10.Image = Image.FromFile(Application.StartupPath + "\\images\\replay.png");
             }
             else if (e.RequestMessage.Text == "dontplayagain")
             {
                 playagain = false;
+                button10.Image = Image.FromFile(Application.StartupPath + "\\images\\dontreplay.png");
             }
         }
 
@@ -960,7 +962,11 @@ namespace Kontra_Music_Player
                 if (form2.InvokeRequired)
                 {
                     var d = new SafeCallDelegate3(safeFormClose);
-                    form2.Invoke(d, new object[] { });
+                    try
+                    {
+                        form2.Invoke(d, new object[] { });
+                    }catch(Exception exe)
+                    {}
                 }
                 else
                     form2.Close();
