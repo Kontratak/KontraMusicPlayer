@@ -56,6 +56,7 @@ public class MainActivity extends Activity
     private Button myaddplBtn;
     private Button mytenforBtn;
     private Button mytenbackBtn;
+    private Button myreplayBtn;
     ImageView imgview;
     float s;
     private int connectclicktimes = 0;
@@ -66,6 +67,7 @@ public class MainActivity extends Activity
     Timer timer;
     TimerTask timerTask;
     String serverip = null;
+    boolean replay = false;
     private IDuplexTypedMessageSender<MyResponse, MyRequest> mySender;
     File f = new File("/data/data/com.example.kontramusicplayer/files/musics.mpl");
 
@@ -91,6 +93,7 @@ public class MainActivity extends Activity
         myplaylistBtn = (Button) findViewById(R.id.playlistbutton);
         mytenforBtn = (Button) findViewById(R.id.tenfor);
         mytenbackBtn = (Button) findViewById(R.id.tenback);
+        myreplayBtn = (Button) findViewById(R.id.replay);
         mySendRequestBtn.setOnClickListener(myOnSendRequestClickHandler);
         myResumePauseRequestBtn.setOnClickListener(mySendPauseResumeClickHandler);
         myNextRequestBtn.setOnClickListener(mySendNextClickHandler);
@@ -99,6 +102,7 @@ public class MainActivity extends Activity
         myaddplBtn.setOnClickListener(addplBtnHandler);
         mytenforBtn.setOnClickListener(tenforbtnHandler);
         mytenbackBtn.setOnClickListener(tenbackbtnHandler);
+        myreplayBtn.setOnClickListener(replaybtnHandler);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_NOSENSOR);
     }
 
@@ -420,6 +424,25 @@ public class MainActivity extends Activity
 
     };
 
+
+    private OnClickListener  replaybtnHandler = new OnClickListener()
+    {
+        @Override
+        public void onClick(View v)
+        {
+            if(replay == false){
+                replay = true;
+                onSendRequest("playagain");
+                myreplayBtn.setBackgroundResource(R.drawable.doplay);
+            }
+            else{
+                replay = false;
+                onSendRequest("dontplayagain");
+                myreplayBtn.setBackgroundResource(R.drawable.dontplay);
+            }
+        }
+
+    };
 
     private void startPlaylistActivity(){
         mySender.detachDuplexOutputChannel();
