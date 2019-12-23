@@ -761,6 +761,10 @@ namespace Kontra_Music_Player
             {
                 playagain = true;
             }
+            else if (e.RequestMessage.Text == "dontplayagain")
+            {
+                playagain = false;
+            }
         }
 
         private void isPlaying(String receiverid)
