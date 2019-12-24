@@ -13276,3 +13276,233 @@ over)
 11:59:20 : 23 Aralık 2019 Pazartesi : Text Received : Battlefield 3 Soundtrack - Main Theme
 11:59:20 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
 11:59:20 : 23 Aralık 2019 Pazartesi : Text Send : Battlefield 3 Soundtrack - Main Theme
+01:04:04 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+01:04:04 : 24 Aralık 2019 Salı : Text Send : playing
+01:04:04 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+01:04:06 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+01:07:39 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+01:08:26 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:08:26 : 24 Aralık 2019 Salı : Text Send : playing
+01:08:26 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+01:08:27 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:29 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:29 : 24 Aralık 2019 Salı : Text Send : playing
+01:09:29 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+01:09:31 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:33 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:33 : 24 Aralık 2019 Salı : Text Send : playing
+01:09:33 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+01:09:34 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:34 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:34 : 24 Aralık 2019 Salı : Text Send : playing
+01:09:34 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+01:09:35 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:36 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:36 : 24 Aralık 2019 Salı : Text Send : playing
+01:09:36 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+01:09:41 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+01:09:41 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:41 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:42 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:42 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:42 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:42 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:42 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:44 : 24 Aralık 2019 Salı : Text Received : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:45 : 24 Aralık 2019 Salı : Text Received : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:09:45 : 24 Aralık 2019 Salı : Text Send : playing
+01:09:45 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:10:28 : 24 Aralık 2019 Salı : Text Received : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:10:28 : 24 Aralık 2019 Salı : Text Send : playing
+01:10:28 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:10:30 : 24 Aralık 2019 Salı : Text Received : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+01:12:17 : 24 Aralık 2019 Salı : Text Send : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:12:17 : 24 Aralık 2019 Salı : Text Send : playing
+01:12:17 : 24 Aralık 2019 Salı : Text Send : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:12:50 : 24 Aralık 2019 Salı : Text Received : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:12:50 : 24 Aralık 2019 Salı : Text Send : playing
+01:12:50 : 24 Aralık 2019 Salı : Text Send : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:12:53 : 24 Aralık 2019 Salı : Text Received : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:15:08 : 24 Aralık 2019 Salı : Text Received : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:15:08 : 24 Aralık 2019 Salı : Text Send : playing
+01:15:08 : 24 Aralık 2019 Salı : Text Send : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:15:09 : 24 Aralık 2019 Salı : Text Received : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:15:27 : 24 Aralık 2019 Salı : Text Received : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:15:27 : 24 Aralık 2019 Salı : Text Send : playing
+01:15:27 : 24 Aralık 2019 Salı : Text Send : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:15:28 : 24 Aralık 2019 Salı : Text Received : ◤Nightcore◢ ↬ Unravel [Switching Vocals] (Jonathan Young)
+01:15:41 : 24 Aralık 2019 Salı : Text Send : Awaken (ft. Valerie Broussard)  League of Legends Cinematic - Season 2019
+01:16:01 : 24 Aralık 2019 Salı : Text Received : Awaken (ft. Valerie Broussard)  League of Legends Cinematic - Season 2019
+01:16:01 : 24 Aralık 2019 Salı : Text Send : playing
+01:16:01 : 24 Aralık 2019 Salı : Text Send : Awaken (ft. Valerie Broussard)  League of Legends Cinematic - Season 2019
+01:16:04 : 24 Aralık 2019 Salı : Text Received : Awaken (ft. Valerie Broussard)  League of Legends Cinematic - Season 2019
+01:17:21 : 24 Aralık 2019 Salı : Text Received : Awaken (ft. Valerie Broussard)  League of Legends Cinematic - Season 2019
+01:17:21 : 24 Aralık 2019 Salı : Text Send : playing
+01:17:21 : 24 Aralık 2019 Salı : Text Send : Awaken (ft. Valerie Broussard)  League of Legends Cinematic - Season 2019
+01:17:23 : 24 Aralık 2019 Salı : Text Received : Awaken (ft. Valerie Broussard)  League of Legends Cinematic - Season 2019
+01:19:10 : 24 Aralık 2019 Salı : Text Send : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:19:11 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:19:11 : 24 Aralık 2019 Salı : Text Send : playing
+01:19:11 : 24 Aralık 2019 Salı : Text Send : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:19:12 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:21:13 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:21:13 : 24 Aralık 2019 Salı : Text Send : playing
+01:21:13 : 24 Aralık 2019 Salı : Text Send : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:21:13 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:21:35 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:21:35 : 24 Aralık 2019 Salı : Text Send : playing
+01:21:35 : 24 Aralık 2019 Salı : Text Send : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:21:36 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:22:38 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:22:38 : 24 Aralık 2019 Salı : Text Send : playing
+01:22:38 : 24 Aralık 2019 Salı : Text Send : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:22:39 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:23:04 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:23:04 : 24 Aralık 2019 Salı : Text Send : playing
+01:23:04 : 24 Aralık 2019 Salı : Text Send : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:23:06 : 24 Aralık 2019 Salı : Text Received : CITY OF THE DEAD  by Eurielle (Lyrics)
+01:24:19 : 24 Aralık 2019 Salı : Text Send : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:25:15 : 24 Aralık 2019 Salı : Text Received : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:25:15 : 24 Aralık 2019 Salı : Text Send : playing
+01:25:15 : 24 Aralık 2019 Salı : Text Send : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:25:16 : 24 Aralık 2019 Salı : Text Received : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:26:59 : 24 Aralık 2019 Salı : Text Received : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:26:59 : 24 Aralık 2019 Salı : Text Send : playing
+01:26:59 : 24 Aralık 2019 Salı : Text Send : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:27:01 : 24 Aralık 2019 Salı : Text Received : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:27:45 : 24 Aralık 2019 Salı : Text Received : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:27:45 : 24 Aralık 2019 Salı : Text Send : playing
+01:27:45 : 24 Aralık 2019 Salı : Text Send : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:27:46 : 24 Aralık 2019 Salı : Text Received : CLAIM YOUR WEAPONS - Acoustic  by Christian Reindl (ft. Atrel & Lucie Paradis)
+01:28:48 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:29:31 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:29:31 : 24 Aralık 2019 Salı : Text Send : playing
+01:29:31 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:29:32 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:30:59 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:30:59 : 24 Aralık 2019 Salı : Text Send : playing
+01:30:59 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:31:00 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:15 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:15 : 24 Aralık 2019 Salı : Text Send : playing
+01:31:15 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:31:16 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:20 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:20 : 24 Aralık 2019 Salı : Text Send : playing
+01:31:20 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:31:23 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:23 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:31:24 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:24 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:31:24 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:31:25 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:29 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:29 : 24 Aralık 2019 Salı : Text Send : playing
+01:31:29 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:31:30 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:35 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:31:35 : 24 Aralık 2019 Salı : Text Send : playing
+01:31:35 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:33:17 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:33:17 : 24 Aralık 2019 Salı : Text Send : playing
+01:33:17 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:33:18 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:33:44 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:33:44 : 24 Aralık 2019 Salı : Text Send : playing
+01:33:44 : 24 Aralık 2019 Salı : Text Send : Eir Aoi - INNOCENCE (Music Video)
+01:33:45 : 24 Aralık 2019 Salı : Text Received : Eir Aoi - INNOCENCE (Music Video)
+01:33:51 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:33:54 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:33:54 : 24 Aralık 2019 Salı : Text Send : playing
+01:33:54 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:34:34 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:34:36 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:34:36 : 24 Aralık 2019 Salı : Text Send : playing
+01:34:36 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:34:58 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:35:03 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:35:03 : 24 Aralık 2019 Salı : Text Send : playing
+01:35:03 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:35:05 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:35:06 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:35:06 : 24 Aralık 2019 Salı : Text Send : playing
+01:35:06 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:36:07 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:36:07 : 24 Aralık 2019 Salı : Text Send : playing
+01:36:07 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:36:08 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:37:02 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:37:02 : 24 Aralık 2019 Salı : Text Send : playing
+01:37:02 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:37:03 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music I FIGHT FOR YOU  by Rachel Williams
+01:37:19 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:37:47 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:37:47 : 24 Aralık 2019 Salı : Text Send : playing
+01:37:47 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:37:48 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:38:00 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:38:00 : 24 Aralık 2019 Salı : Text Send : playing
+01:38:00 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:38:03 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:38:06 : 24 Aralık 2019 Salı : Text Received : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:38:06 : 24 Aralık 2019 Salı : Text Send : playing
+01:38:06 : 24 Aralık 2019 Salı : Text Send : Emotional Vocal Music THE TIDE (Lyrics)  by Opia9
+01:38:17 : 24 Aralık 2019 Salı : Text Received : 
+01:38:19 : 24 Aralık 2019 Salı : Text Received : 
+01:38:19 : 24 Aralık 2019 Salı : Text Send : playing
+01:38:19 : 24 Aralık 2019 Salı : Text Send : 
+01:38:21 : 24 Aralık 2019 Salı : Text Received : 
+01:38:42 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+01:38:42 : 24 Aralık 2019 Salı : Text Send : playing
+01:38:42 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+01:38:43 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+13:04:13 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+13:04:13 : 24 Aralık 2019 Salı : Text Send : playing
+13:04:13 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+13:04:15 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+13:04:18 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+13:04:19 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+13:04:19 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+13:04:19 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+13:04:19 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+13:04:19 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+13:04:26 : 24 Aralık 2019 Salı : Text Received : Daughter - Candles
+13:04:26 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+13:04:26 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+13:04:26 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+13:04:26 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+13:04:33 : 24 Aralık 2019 Salı : Text Received : Daughter - Doing The Right Thing
+13:04:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:35 : 24 Aralık 2019 Salı : Text Received : Daughter - Human
+13:04:36 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:36 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:36 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:36 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:47 : 24 Aralık 2019 Salı : Text Received : Daughter - Burn It Down
+13:04:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+13:04:48 : 24 Aralık 2019 Salı : Text Received : Daughter - Burn It Down
+13:04:49 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:49 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:49 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:49 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+13:04:51 : 24 Aralık 2019 Salı : Text Received : Daughter - Human
+13:04:51 : 24 Aralık 2019 Salı : Text Send : Daughter - No Care
+13:04:51 : 24 Aralık 2019 Salı : Text Send : Daughter - No Care
+13:04:51 : 24 Aralık 2019 Salı : Text Send : Daughter - No Care
+13:04:51 : 24 Aralık 2019 Salı : Text Send : Daughter - No Care
+13:04:53 : 24 Aralık 2019 Salı : Text Received : Daughter - No Care
+13:04:53 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+13:04:53 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+13:04:53 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+13:04:54 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+13:04:56 : 24 Aralık 2019 Salı : Text Received : Halsey - Colors (Official Music Video)
+13:04:57 : 24 Aralık 2019 Salı : Text Send : Life is Strange Before the Storm Ep1 Ending Song - Flaws by Daughter
+13:04:57 : 24 Aralık 2019 Salı : Text Send : Life is Strange Before the Storm Ep1 Ending Song - Flaws by Daughter
+13:04:57 : 24 Aralık 2019 Salı : Text Send : Life is Strange Before the Storm Ep1 Ending Song - Flaws by Daughter
+13:04:57 : 24 Aralık 2019 Salı : Text Send : Life is Strange Before the Storm Ep1 Ending Song - Flaws by Daughter

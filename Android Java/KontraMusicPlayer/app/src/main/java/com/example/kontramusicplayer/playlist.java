@@ -1,11 +1,14 @@
 package com.example.kontramusicplayer;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.RecyclerView;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -51,22 +54,20 @@ public class playlist extends Activity {
         public String Text;
         public int Length;
     }
-    final Handler handler = new Handler();
-    Timer timer;
-    TimerTask timerTask;
     Button musicoptions;
     ScrollView sv;
     TextView musicnameplaylist;
     Button goback;
-    ListView lw;
-    File f ;
+    ListView list;
     ImageView imgview;
-    float s;
     String serverip;
     String portnum = "8060";
-    int pauseclicktimes = 0;
+    ArrayList<String> playlist = new ArrayList<String>();
     private IDuplexTypedMessageSender<MyResponse, MyRequest> mySender;
     private Handler myRefresh = new Handler();
+    private Context mContext;
+    int count = 0;
+    int length = -1;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -76,65 +77,32 @@ public class playlist extends Activity {
         musicnameplaylist = findViewById(R.id.musicName);
         goback = findViewById(R.id.button);
         goback.setOnClickListener(myGoBack);
-        lw = findViewById(R.id.playlistview);
-        ArrayAdapter<String> listadapter = new ArrayAdapter<String>(this,android.R.layout.activity_list_item);
-        f = new File("/data/data/com.example.kontramusicplayer/files/musics.mpl");
-        readfromPlaylist();
+        list =(ListView) findViewById(R.id.playlistview);
         Intent intent = getIntent();
-        serverip = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
+        String serverip = intent.getExtras().getString("serverip");
+        this.serverip = serverip;
         imgview = (ImageView)findViewById(R.id.imageView5);
+        mContext = this;
+        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position,
+                                    long id) {
+
+                onSendRequest("getindex"+Integer.toString(position));
+            }
+        });
         if(serverip != null) {
-            startTimer();
             connection();
         }
     }
-
-
-    public void startTimer() {
-        //set a new Timer
-        timer = new Timer();
-
-        //initialize the TimerTask's job
-        initializeTimerTask();
-
-        //schedule the timer, after the first 5000ms the TimerTask will run every 10000ms
-        timer.schedule(timerTask, 0, 100); //
-    }
-
-    public void stoptimertask() {
-        //stop the timer, if it's not already null
-        if (timer != null) {
-            timer.cancel();
-            timer = null;
-        }
-    }
-
-    public void initializeTimerTask() {
-
-        timerTask = new TimerTask() {
-            public void run() {
-
-                //use a handler to run a toast that shows the current timestamp
-                handler.post(new Runnable() {
-                    public void run() {
-                        imgview.setRotation(s);
-                        if(s==360.0){
-                            s = 0;
-                        }
-                        s+=20.0;
-                    }
-                });
-            }
-        };
-    }
-
 
     private View.OnClickListener myGoBack = new View.OnClickListener()
     {
         @Override
         public void onClick(View v)
         {
-            goBack();
+            mySender.detachDuplexOutputChannel();
+            finish();
         }
     };
 
@@ -144,7 +112,7 @@ public class playlist extends Activity {
             public void run() {
                 try {
                     openConnection();
-                    onSendRequest("connected");
+                    onSendRequest("playlistopen");
                 } catch (Exception err) {
                     return;
                 }
@@ -189,32 +157,6 @@ public class playlist extends Activity {
 
     }
 
-    public void goBack(){
-        mySender.detachDuplexOutputChannel();
-        finish();
-    }
-
-    private void readfromPlaylist(){
-
-        String music = null;
-        ArrayList<String> musics = new ArrayList<String>();
-        try{
-        BufferedReader reader = new BufferedReader(new FileReader(f.getAbsolutePath()));
-        while((music = reader.readLine()) != null){
-            musics.add(music);
-        }
-            TextView t = new TextView(this);
-            ArrayAdapter<String> myadapter=new ArrayAdapter<String>
-                    (this, android.R.layout.simple_list_item_1, android.R.id.text1, musics);
-            lw.setAdapter(myadapter);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-    }
-
     private EventHandler<TypedResponseReceivedEventArgs<MyResponse>> myOnResponseHandler
             = new EventHandler<TypedResponseReceivedEventArgs<MyResponse>>()
     {
@@ -233,13 +175,23 @@ public class playlist extends Activity {
         {
             @Override
             public void run(){
-
-                if(e.getResponseMessage().Length == 9){
-
+                if(e.getResponseMessage().Length == 11){
+                    length = Integer.parseInt(e.getResponseMessage().Text);
                 }
-
+                else if(e.getResponseMessage().Length == 9) {
+                    playlist.add(e.getResponseMessage().Text);
+                    count++;
+                    if(length == count){
+                        addtoAdaptor();
+                    }
+                }
             }
         });
-
     }
+
+    private void addtoAdaptor(){
+        ArrayAdapter<String> playlistAdaptor=new ArrayAdapter<String>(mContext, android.R.layout.simple_list_item_1, android.R.id.text1, playlist);
+        list.setAdapter(playlistAdaptor);
+    }
+
 }

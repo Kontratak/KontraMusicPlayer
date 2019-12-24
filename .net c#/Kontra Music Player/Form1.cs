@@ -201,8 +201,6 @@ namespace Kontra_Music_Player
             }
             opfclick = 1;
             button1.Enabled = true;
-            if (receiverid != null)
-                sendPlaylist();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -349,9 +347,6 @@ namespace Kontra_Music_Player
                 }
                     
             }
-            if (receiverid != null)
-                sendPlaylist();
-
         }
 
         private void listBox1_DragEnter(object sender, DragEventArgs e)
@@ -544,8 +539,6 @@ namespace Kontra_Music_Player
                 }
             }
             button1_Click(null, null);
-            if(receiverid!=null)
-                sendPlaylist();
         }
 
         private void VolumeUp()
@@ -655,7 +648,7 @@ namespace Kontra_Music_Player
                 Log(response.Text, "Send");
             }
         }
-        private void sendPlaylist()
+        private void sendPlaylist(String receiverid)
         {
             MyResponse response = new MyResponse();
             response.Length = 9;
@@ -664,6 +657,16 @@ namespace Kontra_Music_Player
                 response.Text = l;
                 myReceiver.SendResponseMessage(receiverid, response);
             }
+            //TODO
+        }
+
+
+        private void sendLength(String receiverid)
+        {
+            MyResponse response = new MyResponse();
+            response.Length = 11;
+            response.Text = list.Count.ToString();
+            myReceiver.SendResponseMessage(receiverid, response);
             //TODO
         }
 
@@ -767,6 +770,19 @@ namespace Kontra_Music_Player
                 playagain = false;
                 button10.Image = Image.FromFile(Application.StartupPath + "\\images\\dontreplay.png");
             }
+            else if(e.RequestMessage.Text == "playlistopen")
+            {
+                sendLength(e.ResponseReceiverId);
+                sendPlaylist(e.ResponseReceiverId);
+            }
+            else if (e.RequestMessage.Text.Contains("getindex"))
+            {
+                String ind = e.RequestMessage.Text.Substring(8);
+                index = Convert.ToInt32(ind);
+                safeListItemSet("0");
+                safeLabel1TextSet("0");
+                safeplay("0");
+            }
         }
 
         private void isPlaying(String receiverid)
@@ -834,6 +850,9 @@ namespace Kontra_Music_Player
                     sendMusic();
             }         
         }
+
+        
+
         private void safenext(String text)
         {
             
@@ -868,6 +887,33 @@ namespace Kontra_Music_Player
             playstate = "playing";
             sendMusic();
         }
+
+        private void safeListItemSet(String text)
+        {
+            if (trackBar2.InvokeRequired)
+            {
+                var d = new SafeCallDelegate(safevolumeup);
+                listView1.Invoke(d, new object[] { text });
+            }
+            else
+            {
+                listView1.Items[index].Selected = true;
+            }
+        }
+
+        private void safeLabel1TextSet(String text)
+        {
+            if (trackBar2.InvokeRequired)
+            {
+                var d = new SafeCallDelegate(safevolumeup);
+                label1.Invoke(d, new object[] { text });
+            }
+            else
+            {
+                label1.Text = list[index];
+            }
+        }
+
         private void safevolumeup(String text)
         {
             if (trackBar2.InvokeRequired)
@@ -1287,8 +1333,6 @@ namespace Kontra_Music_Player
                             break;
                         }
                     }
-                    if (receiverid != null)
-                        sendPlaylist();
                 }
             }
         }

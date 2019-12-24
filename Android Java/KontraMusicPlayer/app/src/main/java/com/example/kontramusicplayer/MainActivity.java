@@ -69,7 +69,6 @@ public class MainActivity extends Activity
     String serverip = null;
     boolean replay = false;
     private IDuplexTypedMessageSender<MyResponse, MyRequest> mySender;
-    File f = new File("/data/data/com.example.kontramusicplayer/files/musics.mpl");
 
     // Sender sending MyRequest and as a response receiving MyResponse.it
 
@@ -158,7 +157,6 @@ public class MainActivity extends Activity
     {
         // Stop listening to response messages.
         mySender.detachDuplexOutputChannel();
-        f.delete();
         super.onDestroy();
     }
 
@@ -246,9 +244,6 @@ public class MainActivity extends Activity
                     stoptimertask();
                     myResumePauseRequestBtn.setBackgroundResource(R.drawable.play);
 
-                }
-                else if (e.getResponseMessage().Length == 9){
-                    writetoPlaylist(e.getResponseMessage().Text);
                 }
             }
         });
@@ -446,10 +441,9 @@ public class MainActivity extends Activity
 
     private void startPlaylistActivity(){
         mySender.detachDuplexOutputChannel();
-        Intent intent = new Intent(this, playlist.class);
-        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-        intent.putExtra(EXTRA_MESSAGE, serverip);
-        startActivityForResult(intent,1);
+        Intent i = new Intent(this, playlist.class);
+        i.putExtra("serverip", serverip);
+        startActivity(i);
     }
 
     @Override
@@ -470,16 +464,6 @@ public class MainActivity extends Activity
             default:
                 return super.dispatchKeyEvent(event);
         }
-    }
-
-    protected void writetoPlaylist(String music){
-        try {
-            BufferedWriter bw = new BufferedWriter(new FileWriter(f.getAbsolutePath(),true));
-            bw.write(music+"\n");
-            bw.flush();
-            bw.close();
-        } catch (IOException ioe)
-        {ioe.printStackTrace();}
     }
 
 }
