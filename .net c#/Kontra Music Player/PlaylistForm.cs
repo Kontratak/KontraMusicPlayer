@@ -20,6 +20,7 @@ namespace Kontra_Music_Player
         Thread t;
         String sourcepath;
         CopyForm cp;
+        private delegate void SafeCallDelegate(ListViewItem add);
         public PlaylistForm()
         {
             InitializeComponent();
@@ -38,6 +39,19 @@ namespace Kontra_Music_Player
                 savepaths.Add(path);
                 string[] values = { list, Length };
                 ListViewItem add = new ListViewItem(values);
+                safeListItemAdd(add);
+            }
+        }
+
+        private void safeListItemAdd(ListViewItem add)
+        {
+            if (listView1.InvokeRequired)
+            {
+                var d = new SafeCallDelegate(safeListItemAdd);
+                listView1.Invoke(d, new object[] { add });
+            }
+            else
+            {
                 listView1.Items.Add(add);
             }
         }
@@ -139,7 +153,13 @@ namespace Kontra_Music_Player
                     if (File.Exists(sourcepath + "\\" + listplaylist[i] + ".mp3")) ;
                     else
                     {
-                        File.Copy(filename, sourcepath + "\\" + listplaylist[i] + ".mp3");
+                        try
+                        {
+                            File.Copy(filename, sourcepath + "\\" + listplaylist[i] + ".mp3");
+                        }catch(Exception e)
+                        {
+                            MessageBox.Show("File not Found : "+listplaylist[i],"Warning!");
+                        }
                     }
 
                 }

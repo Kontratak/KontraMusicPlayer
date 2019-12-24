@@ -61,6 +61,7 @@ namespace Kontra_Music_Player
         Point lastClick;
         PlaylistForm pf;
         bool playagain = false;
+        String receiveridplaylist;
         public void readySpeechEngine()
         {
             //ss.SetOutputToDefaultAudioDevice();
@@ -660,7 +661,14 @@ namespace Kontra_Music_Player
             //TODO
         }
 
-
+        private void sendIfDone()
+        {
+            MyResponse response = new MyResponse();
+            response.Length = 12;
+            response.Text = "done";
+            myReceiver.SendResponseMessage(receiveridplaylist, response);
+            //TODO
+        }
         private void sendLength(String receiverid)
         {
             MyResponse response = new MyResponse();
@@ -772,6 +780,7 @@ namespace Kontra_Music_Player
             }
             else if(e.RequestMessage.Text == "playlistopen")
             {
+                receiveridplaylist = e.ResponseReceiverId;
                 sendLength(e.ResponseReceiverId);
                 sendPlaylist(e.ResponseReceiverId);
             }
@@ -782,6 +791,10 @@ namespace Kontra_Music_Player
                 safeListItemSet("0");
                 safeLabel1TextSet("0");
                 safeplay("0");
+            }
+            else if(e.RequestMessage.Text == "playlistclosed")
+            {
+                receiveridplaylist = null;
             }
         }
 
@@ -890,9 +903,9 @@ namespace Kontra_Music_Player
 
         private void safeListItemSet(String text)
         {
-            if (trackBar2.InvokeRequired)
+            if (listView1.InvokeRequired)
             {
-                var d = new SafeCallDelegate(safevolumeup);
+                var d = new SafeCallDelegate(safeListItemSet);
                 listView1.Invoke(d, new object[] { text });
             }
             else
@@ -903,9 +916,9 @@ namespace Kontra_Music_Player
 
         private void safeLabel1TextSet(String text)
         {
-            if (trackBar2.InvokeRequired)
+            if (label1.InvokeRequired)
             {
-                var d = new SafeCallDelegate(safevolumeup);
+                var d = new SafeCallDelegate(safeLabel1TextSet);
                 label1.Invoke(d, new object[] { text });
             }
             else
@@ -1141,6 +1154,8 @@ namespace Kontra_Music_Player
             if (e.newState == 8)
             {
                 timeleft = axWindowsMediaPlayer2.currentMedia.duration;
+                if (receiveridplaylist != null)
+                    sendIfDone();
             }
         }
 

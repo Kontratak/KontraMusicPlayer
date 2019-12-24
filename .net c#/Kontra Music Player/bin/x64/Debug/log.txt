@@ -13506,3 +13506,636 @@ over)
 13:04:57 : 24 Aralık 2019 Salı : Text Send : Life is Strange Before the Storm Ep1 Ending Song - Flaws by Daughter
 13:04:57 : 24 Aralık 2019 Salı : Text Send : Life is Strange Before the Storm Ep1 Ending Song - Flaws by Daughter
 13:04:57 : 24 Aralık 2019 Salı : Text Send : Life is Strange Before the Storm Ep1 Ending Song - Flaws by Daughter
+15:39:39 : 24 Aralık 2019 Salı : Text Received : 
+15:39:39 : 24 Aralık 2019 Salı : Text Send : paused
+15:39:39 : 24 Aralık 2019 Salı : Text Send : 
+15:39:42 : 24 Aralık 2019 Salı : Text Send : (GMV) Im A Wanted Man
+15:39:42 : 24 Aralık 2019 Salı : Text Send : playing
+15:39:42 : 24 Aralık 2019 Salı : Text Send : (GMV) Im A Wanted Man
+15:39:47 : 24 Aralık 2019 Salı : Text Received : (GMV) Im A Wanted Man
+15:39:53 : 24 Aralık 2019 Salı : Text Received : (GMV) Im A Wanted Man
+15:39:53 : 24 Aralık 2019 Salı : Text Send : (GMV) Ready
+15:39:53 : 24 Aralık 2019 Salı : Text Send : (GMV) Ready
+15:39:53 : 24 Aralık 2019 Salı : Text Send : (GMV) Ready
+15:39:53 : 24 Aralık 2019 Salı : Text Send : (GMV) Ready
+15:39:53 : 24 Aralık 2019 Salı : Text Send : (GMV) Ready
+15:39:53 : 24 Aralık 2019 Salı : Text Send : (GMV) Ready
+15:39:53 : 24 Aralık 2019 Salı : Text Send : (GMV) Ready
+15:39:54 : 24 Aralık 2019 Salı : Text Received : (GMV) Ready
+15:39:54 : 24 Aralık 2019 Salı : Text Send : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:54 : 24 Aralık 2019 Salı : Text Send : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:54 : 24 Aralık 2019 Salı : Text Send : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:54 : 24 Aralık 2019 Salı : Text Send : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:54 : 24 Aralık 2019 Salı : Text Send : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:54 : 24 Aralık 2019 Salı : Text Send : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:54 : 24 Aralık 2019 Salı : Text Send : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:55 : 24 Aralık 2019 Salı : Text Received : [AMV] Nobody Can Hear You  A Silent Voice
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:55 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:56 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:56 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:56 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:57 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:57 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:58 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:58 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:58 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:59 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:39:59 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:40:37 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:40:37 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:40:37 : 24 Aralık 2019 Salı : Text Send : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:40:46 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:40:49 : 24 Aralık 2019 Salı : Text Received : [Electro House]  Paul Garzon - Mellifluous [Free to use]
+15:40:49 : 24 Aralık 2019 Salı : Text Send : Adele - Skyfall (Lyric Video)
+15:40:50 : 24 Aralık 2019 Salı : Text Send : Adele - Skyfall (Lyric Video)
+15:40:50 : 24 Aralık 2019 Salı : Text Send : Adele - Skyfall (Lyric Video)
+15:40:50 : 24 Aralık 2019 Salı : Text Send : Adele - Skyfall (Lyric Video)
+15:41:03 : 24 Aralık 2019 Salı : Text Received : Adele - Skyfall (Lyric Video)
+15:41:03 : 24 Aralık 2019 Salı : Text Send : Andrea & Otilia ft Shaggy, Costi - PASSION
+15:41:04 : 24 Aralık 2019 Salı : Text Send : Andrea & Otilia ft Shaggy, Costi - PASSION
+15:41:04 : 24 Aralık 2019 Salı : Text Send : Andrea & Otilia ft Shaggy, Costi - PASSION
+15:41:04 : 24 Aralık 2019 Salı : Text Send : Andrea & Otilia ft Shaggy, Costi - PASSION
+15:41:10 : 24 Aralık 2019 Salı : Text Received : Andrea & Otilia ft Shaggy, Costi - PASSION
+15:41:10 : 24 Aralık 2019 Salı : Text Send : Ariana Grande - Into You
+15:41:10 : 24 Aralık 2019 Salı : Text Send : Ariana Grande - Into You
+15:41:11 : 24 Aralık 2019 Salı : Text Send : Ariana Grande - Into You
+15:41:11 : 24 Aralık 2019 Salı : Text Send : Ariana Grande - Into You
+15:41:18 : 24 Aralık 2019 Salı : Text Received : Ariana Grande - Into You
+15:41:18 : 24 Aralık 2019 Salı : Text Send : Avicii - The Nights (Lyric Video)
+15:41:18 : 24 Aralık 2019 Salı : Text Send : Avicii - The Nights (Lyric Video)
+15:41:18 : 24 Aralık 2019 Salı : Text Send : Avicii - The Nights (Lyric Video)
+15:41:18 : 24 Aralık 2019 Salı : Text Send : Avicii - The Nights (Lyric Video)
+15:41:31 : 24 Aralık 2019 Salı : Text Received : Avicii - The Nights (Lyric Video)
+15:41:31 : 24 Aralık 2019 Salı : Text Send : Boy In Space - 7UP (Lyrics)
+15:41:31 : 24 Aralık 2019 Salı : Text Send : Boy In Space - 7UP (Lyrics)
+15:41:31 : 24 Aralık 2019 Salı : Text Send : Boy In Space - 7UP (Lyrics)
+15:41:31 : 24 Aralık 2019 Salı : Text Send : Boy In Space - 7UP (Lyrics)
+15:41:53 : 24 Aralık 2019 Salı : Text Received : Boy In Space - 7UP (Lyrics)
+15:41:53 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:41:53 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:41:53 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:41:53 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:42:07 : 24 Aralık 2019 Salı : Text Received : Britney Spears - I Wanna Go (Audio)
+15:42:07 : 24 Aralık 2019 Salı : Text Send : Basenji — Mistakes feat. Tkay Maidza
+15:42:07 : 24 Aralık 2019 Salı : Text Send : Basenji — Mistakes feat. Tkay Maidza
+15:42:07 : 24 Aralık 2019 Salı : Text Send : Basenji — Mistakes feat. Tkay Maidza
+15:42:07 : 24 Aralık 2019 Salı : Text Send : Basenji — Mistakes feat. Tkay Maidza
+15:42:16 : 24 Aralık 2019 Salı : Text Received : Basenji — Mistakes feat. Tkay Maidza
+15:42:16 : 24 Aralık 2019 Salı : Text Send : BLACKPINK - 'Kill This Love' MV
+15:42:16 : 24 Aralık 2019 Salı : Text Send : BLACKPINK - 'Kill This Love' MV
+15:42:16 : 24 Aralık 2019 Salı : Text Send : BLACKPINK - 'Kill This Love' MV
+15:42:16 : 24 Aralık 2019 Salı : Text Send : BLACKPINK - 'Kill This Love' MV
+15:42:21 : 24 Aralık 2019 Salı : Text Received : BLACKPINK - 'Kill This Love' MV
+15:42:21 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:42:21 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:42:21 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:42:21 : 24 Aralık 2019 Salı : Text Send : Britney Spears - I Wanna Go (Audio)
+15:42:21 : 24 Aralık 2019 Salı : Text Received : Britney Spears - I Wanna Go (Audio)
+15:42:21 : 24 Aralık 2019 Salı : Text Send : Britney Spears - Criminal (Lyric Video)
+15:42:22 : 24 Aralık 2019 Salı : Text Send : Britney Spears - Criminal (Lyric Video)
+15:42:22 : 24 Aralık 2019 Salı : Text Send : Britney Spears - Criminal (Lyric Video)
+15:42:22 : 24 Aralık 2019 Salı : Text Send : Britney Spears - Criminal (Lyric Video)
+15:42:28 : 24 Aralık 2019 Salı : Text Received : Britney Spears - Criminal (Lyric Video)
+15:42:28 : 24 Aralık 2019 Salı : Text Send : Carlie Hanson - Numb
+15:42:28 : 24 Aralık 2019 Salı : Text Send : Carlie Hanson - Numb
+15:42:28 : 24 Aralık 2019 Salı : Text Send : Carlie Hanson - Numb
+15:42:28 : 24 Aralık 2019 Salı : Text Send : Carlie Hanson - Numb
+15:42:30 : 24 Aralık 2019 Salı : Text Received : Carlie Hanson - Numb
+15:42:30 : 24 Aralık 2019 Salı : Text Send : Camila Cabello - Never Be the Same
+15:42:30 : 24 Aralık 2019 Salı : Text Send : Camila Cabello - Never Be the Same
+15:42:30 : 24 Aralık 2019 Salı : Text Send : Camila Cabello - Never Be the Same
+15:42:30 : 24 Aralık 2019 Salı : Text Send : Camila Cabello - Never Be the Same
+15:42:35 : 24 Aralık 2019 Salı : Text Received : Camila Cabello - Never Be the Same
+15:42:35 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:42:35 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:42:35 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:42:36 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:42:45 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:42:45 : 24 Aralık 2019 Salı : Text Send : playing
+15:42:45 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:42:50 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:42:52 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:42:52 : 24 Aralık 2019 Salı : Text Send : playing
+15:42:52 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:42:56 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:42:56 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:42:56 : 24 Aralık 2019 Salı : Text Send : playing
+15:42:56 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:43:07 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:43:07 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:43:07 : 24 Aralık 2019 Salı : Text Send : playing
+15:43:07 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Call Me Maybe
+15:43:16 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:43:17 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:43:18 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Call Me Maybe
+15:43:18 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:18 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:18 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:18 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:18 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:18 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:18 : 24 Aralık 2019 Salı : Text Send : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:19 : 24 Aralık 2019 Salı : Text Received : Carly Rae Jepsen - Cut To The Feeling (Audio)
+15:43:19 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:19 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:19 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:19 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:19 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:19 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:19 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:35 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:35 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:35 : 24 Aralık 2019 Salı : Text Send : playing
+15:43:35 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:43:55 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:13 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:13 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:13 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:13 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:13 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:17 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:57 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:45:57 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:46:28 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:46:28 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:46:28 : 24 Aralık 2019 Salı : Text Send : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:46:29 : 24 Aralık 2019 Salı : Text Received : Carrie Underwood - The Champion (Official Lyric Video) ft. Ludacris
+15:46:29 : 24 Aralık 2019 Salı : Text Send : Catas & Kasger - Blueshift [NCS Release]
+15:46:29 : 24 Aralık 2019 Salı : Text Send : Catas & Kasger - Blueshift [NCS Release]
+15:46:29 : 24 Aralık 2019 Salı : Text Send : Catas & Kasger - Blueshift [NCS Release]
+15:46:29 : 24 Aralık 2019 Salı : Text Send : Catas & Kasger - Blueshift [NCS Release]
+15:46:29 : 24 Aralık 2019 Salı : Text Send : Catas & Kasger - Blueshift [NCS Release]
+15:46:29 : 24 Aralık 2019 Salı : Text Send : Catas & Kasger - Blueshift [NCS Release]
+15:46:29 : 24 Aralık 2019 Salı : Text Send : Catas & Kasger - Blueshift [NCS Release]
+15:46:30 : 24 Aralık 2019 Salı : Text Received : Catas & Kasger - Blueshift [NCS Release]
+15:46:30 : 24 Aralık 2019 Salı : Text Send : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:30 : 24 Aralık 2019 Salı : Text Send : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:30 : 24 Aralık 2019 Salı : Text Send : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:30 : 24 Aralık 2019 Salı : Text Send : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:30 : 24 Aralık 2019 Salı : Text Send : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:30 : 24 Aralık 2019 Salı : Text Send : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:30 : 24 Aralık 2019 Salı : Text Send : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:31 : 24 Aralık 2019 Salı : Text Received : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:48 : 24 Aralık 2019 Salı : Text Received : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:48 : 24 Aralık 2019 Salı : Text Send : 1
+15:46:52 : 24 Aralık 2019 Salı : Text Received : C-BooL - Magic Symphony ft. Giang Pham (Official Video)
+15:46:52 : 24 Aralık 2019 Salı : Text Send : 1
+15:47:05 : 24 Aralık 2019 Salı : Text Received : C-BooL - Magic Symphony ft. Giang Pham (Off15:47:58 : 24 Aralık 2019 Salı : Text Received : 
+15:47:58 : 24 Aralık 2019 Salı : Text Send : paused
+15:47:58 : 24 Aralık 2019 Salı : Text Send : 
+15:47:59 : 24 Aralık 2019 Salı : Text Received : 
+21:10:16 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:10:16 : 24 Aralık 2019 Salı : Text Send : playing
+21:10:16 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+21:10:27 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:10:27 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:29 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:10:29 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:10:29 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:10:29 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:10:29 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:10:29 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:10:29 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:10:30 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:10:30 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+21:10:30 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:31 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+21:10:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:33 : 24 Aralık 2019 Salı : Text Received : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:33 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:34 : 24 Aralık 2019 Salı : Text Received : Battlefield 4 - OFFICIAL MAIN THEME (Extended)
+21:10:34 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:34 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:34 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:34 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:34 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:34 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:35 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:35 : 24 Aralık 2019 Salı : Text Received : Castle of Glass (Official Video) - Linkin Park
+21:10:35 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:42 : 24 Aralık 2019 Salı : Text Received : Castle of Glass (Official Video) - Linkin Park
+21:10:42 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:42 : 24 Aralık 2019 Salı : Text Received : Castle of Glass (Official Video) - Linkin Park
+21:10:42 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:10:42 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Received : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:43 : 24 Aralık 2019 Salı : Text Received : Christina Perri - A Thousand Years [Official Music Video]
+21:10:43 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:43 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:44 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:44 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:44 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:44 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:44 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:44 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:44 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:45 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:45 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Received : Daughter - Burn It Down
+21:10:45 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:47 : 24 Aralık 2019 Salı : Text Received : Daughter - Burn It Down
+21:10:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Received : Daughter - Candles
+21:10:47 : 24 Aralık 2019 Salı : Text Send : 1
+21:10:48 : 24 Aralık 2019 Salı : Text Received : Daughter - Candles
+21:10:51 : 24 Aralık 2019 Salı : Text Received : Daughter - Candles
+21:10:51 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:10:51 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:10:51 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:10:51 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:10:51 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:10:53 : 24 Aralık 2019 Salı : Text Received : Daughter - Doing The Right Thing
+21:10:53 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:53 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:53 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:53 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:54 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:10:54 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:54 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:54 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:54 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:10:55 : 24 Aralık 2019 Salı : Text Received : Castle of Glass (Official Video) - Linkin Park
+21:10:55 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:10:55 : 24 Aralık 2019 Sal�21:36:53 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:36:53 : 24 Aralık 2019 Salı : Text Send : playing
+21:36:53 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+21:36:55 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:36:57 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:36:57 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:36:57 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:36:57 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:36:57 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:36:58 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+21:36:59 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:36:59 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:36:59 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:36:59 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:02 : 24 Aralık 2019 Salı : Text Received : Castle of Glass (Official Video) - Linkin Park
+21:37:02 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:02 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:02 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:02 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:04 : 24 Aralık 2019 Salı : Text Received : Daughter - Burn It Down
+21:37:04 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:37:04 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:37:04 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:37:05 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:37:15 : 24 Aralık 2019 Salı : Text Received : Daughter - Get Lucky (Daft Punk cover)
+21:37:15 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:15 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:15 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:15 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:17 : 24 Aralık 2019 Salı : Text Received : Halsey - Colors (Official Music Video)
+21:37:17 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:17 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:17 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:17 : 24 Aralık 2019 Salı : Text Send : Halsey - Colors (Official Music Video)
+21:37:19 : 24 Aralık 2019 Salı : Text Received : Halsey - Colors (Official Music Video)
+21:37:19 : 24 Aralık 2019 Salı : Text Send : Illenium - Afterlife (feat. ECHOS)
+21:37:19 : 24 Aralık 2019 Salı : Text Send : Illenium - Afterlife (feat. ECHOS)
+21:37:19 : 24 Aralık 2019 Salı : Text Send : Illenium - Afterlife (feat. ECHOS)
+21:37:19 : 24 Aralık 2019 Salı : Text Send : Illenium - Afterlife (feat. ECHOS)
+21:37:20 : 24 Aralık 2019 Salı : Text Received : Illenium - Afterlife (feat. ECHOS)
+21:37:20 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:20 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:20 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:20 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:22 : 24 Aralık 2019 Salı : Text Received : Christina Perri - A Thousand Years [Official Music Video]
+21:37:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:37:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:37:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:37:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:37:23 : 24 Aralık 2019 Salı : Text Received : Daughter - Doing The Right Thing
+21:37:23 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:37:23 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:37:23 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:37:23 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:37:24 : 24 Aralık 2019 Salı : Text Received : Daughter - How
+21:37:24 : 24 Aralık 2019 Salı : Text Send : Daughter - Lifeforms
+21:37:24 : 24 Aralık 2019 Salı : Text Send : Daughter - Lifeforms
+21:37:24 : 24 Aralık 2019 Salı : Text Send : Daughter - Lifeforms
+21:37:24 : 24 Aralık 2019 Salı : Text Send : Daughter - Lifeforms
+21:37:25 : 24 Aralık 2019 Salı : Text Received : Daughter - Lifeforms
+21:37:25 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:37:25 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:37:25 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:37:25 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:37:28 : 24 Aralık 2019 Salı : Text Received : Daughter - Human
+21:37:28 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:28 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:29 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:29 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+21:37:30 : 24 Aralık 2019 Salı : Text Received : Daughter - Burn It Down
+21:37:30 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:30 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:30 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:30 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:54 : 24 Aralık 2019 Salı : Text Received : Castle of Glass (Official Video) - Linkin Park
+21:37:54 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:54 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:54 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:54 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:37:55 : 24 Aralık 2019 Salı : Text Received : Christina Perri - A Thousand Years [Official Music Video]
+21:37:55 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:55 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:55 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:55 : 24 Aralık 2019 Salı : Text Send : Castle of Glass (Official Video) - Linkin Park
+21:37:56 : 24 Aralık 2019 Salı : Text Received : Castle of Glass (Official Video) - Linkin Park
+21:37:56 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:37:56 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:37:56 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:37:56 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:37:59 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:37:59 : 24 Aralık 2019 Salı : Text Send : Imagine Dragons - Birds (Audio) ft. Elisa
+21:37:59 : 24 Aralık 2019 Salı : Text Send : Imagine Dragons - Birds (Audio) ft. Elisa
+21:37:59 : 24 Aralık 2019 Salı : Text Send : Imagine Dragons - Birds (Audio) ft. Elisa
+21:37:59 : 24 Aralık 2019 Salı : Text Send : Imagine Dragons - Birds (Audio) ft. Elisa
+21:38:01 : 24 Aralık 2019 Salı : Text Received : Imagine Dragons - Birds (Audio) ft. Elisa
+21:38:02 : 24 Aralık 2019 Salı : Text Send : Katy Perry - This Is How We Do (Official)
+21:38:02 : 24 Aralık 2019 Salı : Text Send : Katy Perry - This Is How We Do (Official)
+21:38:02 : 24 Aralık 2019 Salı : Text Send : Katy Perry - This Is How We Do (Official)
+21:38:02 : 24 Aralık 2019 Salı : Text Send : Katy Perry - This Is How We Do (Official)
+21:38:08 : 24 Aralık 2019 Salı : Text Received : Katy Perry - This Is How We Do (Official)
+21:38:08 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:08 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:08 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:08 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:11 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:11 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:11 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:11 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:11 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:12 : 24 Aralık 2019 Salı : Text Received : Daughter - Doing The Right Thing
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:38:12 : 24 Aralık 2019 Salı : Text Received : Daughter - Get Lucky (Daft Punk cover)
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:38:12 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+21:38:15 : 24 Aralık 2019 Salı : Text Received : Daughter - How
+21:38:15 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:38:15 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:38:15 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:38:15 : 24 Aralık 2019 Salı : Text Send : Daughter - Human
+21:38:20 : 24 Aralık 2019 Salı : Text Received : Daughter - Human
+21:38:20 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:38:20 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:38:20 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:38:21 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:38:21 : 24 Aralık 2019 Salı : Text Received : Daughter - Medicine (Sound Remedy Remix)
+21:38:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:22 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:38:24 : 24 Aralık 2019 Salı : Text Received : Daughter - Doing The Right Thing
+21:38:24 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:24 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:24 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:24 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:26 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:38:26 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:38:26 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:38:26 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:38:26 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+21:38:26 : 24 Aralık 2019 21:53:41 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:53:41 : 24 Aralık 2019 Salı : Text Send : playing
+21:53:41 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+21:53:42 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:53:45 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:53:45 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+21:53:45 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+21:53:45 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+21:53:45 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+21:53:46 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+21:53:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:53:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:53:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:53:47 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+21:53:48 : 24 Aralık 2019 Salı : Text Received : Daughter - Candles
+21:53:48 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:53:48 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:53:48 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:53:48 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+21:53:50 : 24 Aralık 2019 Salı : Text Received : Daughter - Medicine (Sound Remedy Remix)
+21:53:50 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:53:50 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:53:50 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:53:50 : 24 Aralık 2019 Salı : Text Send : Daughter - Doing The Right Thing
+21:53:51 : 24 Aralık 2019 Salı : Text Received : Daughter - Doing The Right Thing
+21:53:52 : 24 Aralık 2019 Salı : Text Send : Daughter - Peter (Tales From Shop Session)
+21:53:52 : 24 Aralık 2019 Salı : Text Send : Daughter - Peter (Tales From Shop Session)
+21:53:52 : 24 Aralık 2019 Salı : Text Send : Daughter - Peter (Tales From Shop Session)
+21:53:52 : 24 Aralık 2019 Salı : Text Send : Daughter - Peter (Tales From Shop Session)
+21:53:53 : 24 Aralık 2019 Salı : Text Received : Daughter - Peter (Tales From Shop Session)
+21:53:53 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:53:54 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:53:54 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:53:54 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:54:12 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+21:54:12 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:54:12 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:54:12 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:54:12 : 24 Aralık 2019 Salı : Text Send : Christina Perri - A Thousand Years [Official Music Video]
+21:54:14 : 24 Aralık 2019 Salı : Text Received : Christina Perri - A Thousand Years [Official Music Video]
+21:54:14 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:54:14 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:54:14 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:54:14 : 24 Aralık 2019 Salı : Text Send : Daughter - Get Lucky (Daft Punk cover)
+21:54:15 : 24 Aralık 2019 Salı : Text Received : Daughter - Get Lucky (Daft Punk cover)
+21:54:15 : 24 Aralık 2019 Salı : Text Send : Daughter - Smother
+21:54:15 : 24 Aralık 2019 Salı : Text Send : Daughter - Smother
+21:54:15 : 24 Aralık 2019 Salı : Text Send : Daughter - Smother
+21:54:15 : 24 Aralık 2019 Salı :22:05:26 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+22:05:26 : 24 Aralık 2019 Salı : Text Send : playing
+22:05:26 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+22:05:28 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+22:05:29 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+22:05:30 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+22:05:30 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+22:05:30 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+22:05:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+22:05:31 : 24 Aralık 2019 Salı : Text Send : Battlefield 3 Soundtrack - Main Theme
+22:05:32 : 24 Aralık 2019 Salı : Text Received : Battlefield 3 Soundtrack - Main Theme
+22:05:32 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+22:05:32 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+22:05:32 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+22:05:32 : 24 Aralık 2019 Salı : Text Send : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+22:05:33 : 24 Aralık 2019 Salı : Text Received : Daughter - 'All I Wanted' (Live at Asylum Chapel)
+22:05:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+22:05:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+22:05:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+22:05:33 : 24 Aralık 2019 Salı : Text Send : Daughter - Medicine (Sound Remedy Remix)
+22:05:34 : 24 Aralık 2019 Salı : Text Received : Daughter - Medicine (Sound Remedy Remix)
+22:05:34 : 24 Aralık 2019 Salı : Text Send : Hannah  Clay - The Night We Met (13 Reasons Why)
+22:05:34 : 24 Aralık 2019 Salı : Text Send : Hannah  Clay - The Night We Met (13 Reasons Why)
+22:05:34 : 24 Aralık 2019 Salı : Text Send : Hannah  Clay - The Night We Met (13 Reasons Why)
+22:05:34 : 24 Aralık 2019 Salı : Text Send : Hannah  Clay - The Night We Met (13 Reasons Why)
+22:05:35 : 24 Aralık 2019 Salı : Text Received : Hannah  Clay - The Night We Met (13 Reasons Why)
+22:05:35 : 24 Aralık 2019 Salı : Text Send : life is strange  Glass - Daughter
+22:05:35 : 24 Aralık 2019 Salı : Text Send : life is strange  Glass - Daughter
+22:05:35 : 24 Aralık 2019 Salı : Text Send : life is strange  Glass - Daughter
+22:05:35 : 24 Aralık 2019 Salı : Text Send : life is strange  Glass - Daughter
+22:05:36 : 24 Aralık 2019 Salı : Text Received : life is strange  Glass - Daughter
+22:05:37 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+22:05:37 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+22:05:37 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+22:05:37 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+22:05:38 : 24 Aralık 2019 Salı : Text Received : Marshmello - Ritual ft Wrabel (Official Music Video)
+22:05:38 : 24 Aralık 2019 Salı : Text Send : Waka Flocka Flame – Game On (feat. Good Charlotte) [From “Pixels – The Movie”]
+22:05:38 : 24 Aralık 2019 Salı : Text Send : Waka Flocka Flame – Game On (feat. Good Charlotte) [From “Pixels – The Movie”]
+22:05:38 : 24 Aralık 2019 Salı : Text Send : Waka Flocka Flame – Game On (feat. Good Charlotte) [From “Pixels – The Movie”]
+22:05:38 : 24 Aralık 2019 Salı : Text Send : Waka Flocka Flame – Game On (feat. Good Charlotte) [From “Pixels – The Movie”]
+22:05:39 : 24 Aralık 2019 Salı : Text Received : Waka Flocka Flame – Game On (feat. Good Charlotte) [From “Pixels – The Movie”]
+22:05:39 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:05:39 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:05:39 : 24 Aralık 2019 Salı : T22:41:57 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+22:41:57 : 24 Aralık 2019 Salı : Text Send : playing
+22:41:57 : 24 Aralık 2019 Salı : Text Send : Bad Books Forest Whitaker
+22:41:58 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+22:42:07 : 24 Aralık 2019 Salı : Text Received : Bad Books Forest Whitaker
+22:42:07 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:42:07 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:42:07 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:42:07 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:42:13 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:13 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:13 : 24 Aralık 2019 Salı : Text Send : playing
+22:42:13 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:42:14 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:28 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:29 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:30 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:31 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:32 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:33 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:33 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:34 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:34 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:35 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:35 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:36 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:38 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:39 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:40 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:42:57 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:42:59 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:43:15 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:43:16 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:43:16 : 24 Aralık 2019 Salı : Text Send : playing
+22:43:16 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:44:24 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:44:24 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:44:25 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:44:25 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:44:26 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:46:24 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:49:43 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:53:02 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:56:21 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:24 : 24 Aralık 2019 Salı : Text Send : paused
+22:58:24 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:47 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:58:47 : 24 Aralık 2019 Salı : Text Send : paused
+22:58:47 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:48 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:58:48 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:48 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:50 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:58:50 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:58:52 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:58:58 : 24 Aralık 2019 Salı : Text Received : MixAndMash - Buttercup
+22:58:58 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:58 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:58 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:58:58 : 24 Aralık 2019 Salı : Text Send : MixAndMash - Buttercup
+22:59:14 : 24 Aralık 2019 Salı : Text Send : Musicmrsandman
+22:59:15 : 24 Aralık 2019 Salı : Text Send : Portal 2 End Credits Song 'Want You Gone' by Jonathan Coulton [1080p HD]
+22:59:28 : 24 Aralık 2019 Salı : Text Received : Portal 2 End Credits Song 'Want You Gone' by Jonathan Coulton [1080p HD]
+22:59:28 : 24 Aralık 2019 Salı : Text Send : playing
+22:59:28 : 24 Aralık 2019 Salı : Text Send : Portal 2 End Credits Song 'Want You Gone' by Jonathan Coulton [1080p HD]
+22:59:29 : 24 Aralık 2019 Salı : Text Received : Portal 2 End Credits Song 'Want You Gone' by Jonathan Coulton [1080p HD]
+22:59:31 : 24 Aralık 2019 Salı : Text Received : Portal 2 End Credits Song 'Want You Gone' by Jonathan Coulton [1080p HD]
+22:59:31 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+22:59:31 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+22:59:31 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+22:59:32 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+22:59:51 : 24 Aralık 2019 Salı : Text Send : Life_is_Strange_Before_the_Storm_OST_Main_Menu_1_Hour_Version[MP3.support]
+23:01:51 : 24 Aralık 2019 Salı : Text Received : Life_is_Strange_Before_the_Storm_OST_Main_Menu_1_Hour_Version[MP3.support]
+23:01:51 : 24 Aralık 2019 Salı : Text Send : playing
+23:01:51 : 24 Aralık 2019 Salı : Text Send : Life_is_Strange_Before_the_Storm_OST_Main_Menu_1_Hour_Version[MP3.support]
+23:01:57 : 24 Aralık 2019 Salı : Text Received : Life_is_Strange_Before_the_Storm_OST_Main_Menu_1_Hour_Version[MP3.support]
+23:01:58 : 24 Aralık 2019 Salı : Text Received : Life_is_Strange_Before_the_Storm_OST_Main_Menu_1_Hour_Version[MP3.support]
+23:01:58 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:01:58 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:01:58 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:01:58 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:01:59 : 24 Aralık 2019 Salı : Text Received : Daughter - Candles
+23:02:00 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:02:00 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:02:00 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:02:00 : 24 Aralık 2019 Salı : Text Send : Daughter - Candles
+23:02:00 : 24 Aralık 2019 Salı : Text Received : Daughter - Candles
+23:02:00 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+23:02:01 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+23:02:01 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+23:02:01 : 24 Aralık 2019 Salı : Text Send : Daughter - Burn It Down
+23:02:01 : 24 Aralık 2019 Salı : Text Received : Daughter - Burn It Down
+23:02:03 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+23:02:03 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+23:02:03 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+23:02:03 : 24 Aralık 2019 Salı : Text Send : Daughter - How
+23:02:03 : 24 Aralık 2019 Salı : Text Received : Daughter - How
+23:02:03 : 24 Aralık 2019 Salı : Text Send : Lenka - Everything At Once
+23:02:04 : 24 Aralık 2019 Salı : Text Send : Lenka - Everything At Once
+23:02:04 : 24 Aralık 2019 Salı : Text Send : Lenka - Everything At Once
+23:02:04 : 24 Aralık 2019 Salı : Text Send : Lenka - Everything At Once
+23:02:04 : 24 Aralık 2019 Salı : Text Received : Lenka - Everything At Once
+23:02:05 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+23:02:05 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+23:02:05 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+23:02:05 : 24 Aralık 2019 Salı : Text Send : Life is Strange Soundtrack - To All Of You by Syd Matters
+23:02:06 : 24 Aralık 2019 Salı : Text Received : Life is Strange Soundtrack - To All Of You by Syd Matters
+23:02:07 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+23:02:07 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+23:02:07 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+23:02:07 : 24 Aralık 2019 Salı : Text Send : Marshmello - Ritual ft Wrabel (Official Music Video)
+23:02:08 : 24 Aralık 2019 Salı : Text Received : Marshmello - Ritual ft Wrabel (Official Music Video)
+23:02:08 : 24 Aralık 2019 Salı : Text Send : Aero Chord - Burning (feat. Bianca)
+23:02:08 : 24 Aralık 2019 Salı : Text Send : Aero Chord - Burning (feat. Bianca)
+23:02:08 : 24 Aralık 2019 Salı : Text Send : Aero Chord - Burning (feat. Bianca)
+23:02:08 : 24 Aralık 2019 Salı : Text Send : Aero Chord - Burning (feat. Bianca)

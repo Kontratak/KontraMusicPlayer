@@ -3,10 +3,9 @@ package com.example.kontramusicplayer;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -15,17 +14,8 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.ScrollView;
 import android.widget.TextView;
-import android.view.View.OnClickListener;
-import android.widget.Toast;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Timer;
-import java.util.TimerTask;
 
 import eneter.messaging.diagnostic.EneterTrace;
 import eneter.messaging.endpoints.typedmessages.DuplexTypedMessagesFactory;
@@ -68,7 +58,7 @@ public class playlist extends Activity {
     private Context mContext;
     int count = 0;
     int length = -1;
-
+    int index;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -85,9 +75,7 @@ public class playlist extends Activity {
         mContext = this;
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position,
-                                    long id) {
-
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 onSendRequest("getindex"+Integer.toString(position));
             }
         });
@@ -101,6 +89,7 @@ public class playlist extends Activity {
         @Override
         public void onClick(View v)
         {
+            onSendRequest("playlistclosed");
             mySender.detachDuplexOutputChannel();
             finish();
         }
@@ -185,12 +174,15 @@ public class playlist extends Activity {
                         addtoAdaptor();
                     }
                 }
+                else if(e.getResponseMessage().Length == 12){
+                    //TODO
+                }
             }
         });
     }
 
     private void addtoAdaptor(){
-        ArrayAdapter<String> playlistAdaptor=new ArrayAdapter<String>(mContext, android.R.layout.simple_list_item_1, android.R.id.text1, playlist);
+        ArrayAdapter<String> playlistAdaptor=new ArrayAdapter<>(mContext, android.R.layout.simple_list_item_1, android.R.id.text1, playlist);
         list.setAdapter(playlistAdaptor);
     }
 
